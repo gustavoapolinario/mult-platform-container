@@ -1,0 +1,15 @@
+{
+  "name": "mult-platform-container",
+  "version": "1.0.0",
+  "description": "Application Test to try mult platform container",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Apolinario",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
